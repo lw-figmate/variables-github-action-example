@@ -90,7 +90,7 @@
       "watermelon": {
         "$type": "color",
         "$value": "#ffbe16",
-        "$description": "",
+        "$description": "a new description for the demo",
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
