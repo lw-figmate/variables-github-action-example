@@ -145,7 +145,7 @@
       },
       "radish": {
         "$type": "color",
-        "$value": "#ffcbb7",
+        "$value": "#F54927",
         "$description": "",
         "$extensions": {
           "com.figma": {
